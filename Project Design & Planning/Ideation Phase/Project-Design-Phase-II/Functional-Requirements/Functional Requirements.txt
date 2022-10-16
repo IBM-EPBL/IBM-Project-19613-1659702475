@@ -1,0 +1,16 @@
+Those requirments depend on the type of software being developed,the expected users of
+the software. These are the statement of services the system should provide,how the
+system should react to particular inputs and how the system should behave in particular
+situation.
+• Extracting data from CSV files
+• Cleaning the data.
+• Vector Representation.
+Non-functional requirements is not about functionality or behaviour of system, but rather
+are used to specify the capacity of a system. They are more related to properties of system
+such as quality, reliability and quick response time. Non- functional requirements come up
+via customer needs, because of budget, interoperability need such as software and
+hardware requirement, organizational policies or due to some external factors such as:-
+• Basic Operational Requirement
+• Organizational Requirement
+• Product Requirement
+• User Requirement
